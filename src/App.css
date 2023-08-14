@@ -1,0 +1,139 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.general {
+  position: relative;
+  padding: 45px;
+  font-size: large;
+  background-color: white;
+  align-self: center;
+  top: 43px;
+  left: 520px;
+  height: 117px;
+  width: 671px;
+  border-radius: 20px;
+}
+
+input {
+  width: 200px;
+  margin: 10px;
+  border-radius: 7px;
+  padding: 7px;
+}
+.navbar {
+  padding: 40px 30px;
+  background-color: white;
+  height: 50px;
+  text-align: center;
+}
+body {
+  background-color: #e3e5e8;
+  font-family: 'Open Sans', sans-serif;
+}
+
+form {
+  display: flex;
+}
+.experience {
+  background-color: white;
+  position: relative;
+  padding: 45px;
+  font-size: large;
+  align-self: center;
+  top: 43px;
+  left: 520px;
+  height: 117px;
+  width: 681px;
+  border-radius: 20px;
+  margin-top: 12px;
+}
+.btn {
+  height: 55px;
+  width: 198px;
+  position: relative;
+  top: 100px;
+  left: 310px;
+  font-size: larger;
+  border-radius: 10px;
+  background-color: white;
+}
+.education{
+    background-color: white;
+  position: relative;
+  padding: 45px;
+  font-size: large;
+  align-self: center;
+  top: 43px;
+  left: 520px;
+  height: 114px;
+  width: 658px;
+  border-radius: 20px;
+  margin-top: 12px;
+}
+.cv{
+    background-color: white;
+    height: 700px;
+    margin: 70px 10px 10px 10px;
+    padding: 50px;
+    width: 950px;
+    position: relative;
+    left: 280px;
+    top: 65px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+.name{
+    font-size: 40px;
+    color: #262932;
+}
+.call{
+    height: 30px;
+    object-fit:contain;
+    object-position: left;
+}
+.icon{
+    position: relative;
+    width: 197px;
+    height: 62px;
+    /* background-color: grey; */
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+    top: -80px;
+   left: 638px; 
+}
+.num{
+    display: flex;
+    align-content:flex-start;
+    position: relative;
+}
+.mail{
+    display: flex;
+    align-content:flex-start;
+    position: relative;
+}
+.edu_title{
+  font-size: xx-large;
+  color: #262932;
+}
+.insti{
+  position: relative;
+  top: -59px;
+  left: 639px;
+}
+
+.container{
+ width: 100vw;
+ display: flex;
+ justify-content: center;
+}
+
+#btn{
+  width: 200px;
+  height: 40px;
+  border-radius: 7px;
+  background-color: #2563eb;
+  color: white;
+}
